@@ -1,0 +1,56 @@
+/* Background for all elements  */
+* {
+    background-color: #D8DA3D;
+}
+/* font and color of body */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    }
+/* nav bar styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 200px;
+    position: absolute;
+    height: 100%;
+    
+  }
+  
+  li.block1 {
+    width: 180px;
+    height: 30px;
+    padding-left: 5px;
+    background: white;
+    margin-bottom: 2rem;
+    color: #80007E;
+    border-right: 1em solid black ;
+  }
+
+  /* subscipt element(3) */
+  sub {
+   
+    background: white;
+    
+    color: #80007E;
+    font-size: 20px;
+  }
+
+  /* styling div element to move it right*/
+  div {
+    margin-left:20%;
+    margin-top: 0%;
+    height:100%;
+    color: #80007E;
+    
+  }
+/* heading style */
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+
+/*  styling dotted line as seprater before address */
+  hr.new1 {
+    margin-top: 60px;
+    border-top: 2px dotted #80007E;
+  }
