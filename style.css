@@ -51,6 +51,7 @@ ul {
 
 /*  styling dotted line as seprater before address */
   hr.new1 {
+    margin-left: 20%
     margin-top: 60px;
     border-top: 2px dotted #80007E;
   }
